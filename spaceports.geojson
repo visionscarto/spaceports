@@ -1,0 +1,525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Spaceport Sweden",
+        "Address": "Kiruna",
+        "Country": "Sweden",
+        "Main nationality": "SW",
+        "Open": 2015,
+        "Closed": "",
+        "Operators": "Virgin",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2252821,
+          67.8557995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Spaceport Curaçao",
+        "Address": "Hato International Airport, Curaçao Island",
+        "Country": "Netherlands",
+        "Main nationality": "NL",
+        "Open": 2014,
+        "Closed": "",
+        "Operators": "",
+        "website": "http://caribbeanspaceport.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.960945,
+          12.188463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Spaceport Malaysia",
+        "Address": "Bernam Jaya, Selangor",
+        "Country": "Malaysia",
+        "Main nationality": "",
+        "Open": 2020,
+        "Closed": "",
+        "Operators": "Langkasa VTOL Spaceplane",
+        "website": "http://spaceportmalaysia.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5368831,
+          3.6575107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Spaceport America",
+        "Address": "Sierra County, New Mexico",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 2013,
+        "Closed": "",
+        "Operators": "Virgin, SpaceX, UP Aerospace",
+        "website": "http://spaceportamerica.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1011931,
+          33.134596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Cecil Airport",
+        "Address": "Jacksonville, Duval County, Florida",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 2010,
+        "Closed": "",
+        "Operators": "",
+        "website": "http://www.flyjacksonville.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8805437,
+          30.2221996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Kodiak Launch Complex",
+        "Address": "Kodiak Island, Alaska",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 1998,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.1187217,
+          57.2413249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Mid-Atlantic Regional Spaceport",
+        "Address": "Delmarva Peninsula, Chincoteague, Virginia",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 2006,
+        "Closed": "",
+        "Operators": "Orbital Sciences",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.478056,
+          37.843333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Clinton-Sherman Industrial Airpark",
+        "Address": "",
+        "Country": "",
+        "Main nationality": "",
+        "Open": "",
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.200556,
+          35.339722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Ras Al Khaimah spaceport",
+        "Address": "Ras Al Khaimah",
+        "Country": "United Arab Emirates",
+        "Main nationality": "UAE",
+        "Open": "",
+        "Closed": "",
+        "Operators": "Space Adventures",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9761994,
+          25.8006926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Corn Ranch",
+        "Address": "Van Horn, Texas",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 2006,
+        "Closed": "",
+        "Operators": "Blue Origin, Jeff Bezos",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.758889,
+          31.423333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Mojave Air and Space Port",
+        "Address": "1434 Flight Line, Mojave, CA 93501",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 1942,
+        "Closed": "",
+        "Operators": "SpaceShipOne, XCOR, Masten",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151667,
+          35.059444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Xichang Satellite Launch Center",
+        "Address": "",
+        "Country": "PRC",
+        "Main nationality": "CN",
+        "Open": 1984,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.026556,
+          28.246017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Wenchang Satellite Launch Center",
+        "Address": "Hainan",
+        "Country": "PRC",
+        "Main nationality": "CN",
+        "Open": 1988,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.867,
+          19.567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Jiuquan Satellite Launch Center",
+        "Address": "",
+        "Country": "PRC",
+        "Main nationality": "CN",
+        "Open": 1958,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.298333,
+          40.960556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Moffett Field",
+        "Address": "Sunnyvale, California",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": "",
+        "Closed": "",
+        "Operators": "NASA, Google…",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.048333,
+          37.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Edwards Air Force Base",
+        "Address": "Edwards, California",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": "",
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.883611,
+          34.905556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Baikonur Cosmodrome",
+        "Address": "Kazakhstan",
+        "Country": "Russia",
+        "Main nationality": "RUS",
+        "Open": 1955,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.305,
+          45.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Cape Canaveral Station",
+        "Address": "Florida",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 1949,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.577778,
+          28.488889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Kennedy Space Center",
+        "Address": "Florida",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 1967,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65085,
+          28.524058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Barreira do Inferno Center",
+        "Address": "Parnamirim, Rio Grande do Norte",
+        "Country": "Brasil",
+        "Main nationality": "BRA",
+        "Open": 1965,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.163056,
+          -5.925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Alcântara Launch Center",
+        "Address": "Alcântara, Maranhaõ",
+        "Country": "Brasil",
+        "Main nationality": "BRA",
+        "Open": 1990,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.396389,
+          -2.373056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Guiana Space Centre",
+        "Address": "Kourou, Guyane",
+        "Country": "France",
+        "Main nationality": "FR",
+        "Open": 1968,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.760556,
+          5.237222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Broglio Space Centre",
+        "Address": "Malindi",
+        "Country": "Kenya",
+        "Main nationality": "IT",
+        "Open": 1967,
+        "Closed": 1988,
+        "Operators": "Italian Space Agency",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2125,
+          -2.938333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Satish Dhawan Space Centre",
+        "Address": "Sriharikota, Nellore, Andhra Pradesh",
+        "Country": "India",
+        "Main nationality": "IN",
+        "Open": 1971,
+        "Closed": "",
+        "Operators": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.230425,
+          13.719939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Vandenberg Air Force Base",
+        "Address": "Lompoc, California",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": 1959,
+        "Closed": "",
+        "Operators": "NASA, SpaceX",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568056,
+          34.732778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "SpaceX Boca Chica Private Spaceport",
+        "Address": "Cameron County, Texas",
+        "Country": "USA",
+        "Main nationality": "USA",
+        "Open": "-",
+        "Closed": "",
+        "Operators": "SpaceX",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2384354,
+          26.0489858
+        ]
+      }
+    }
+  ]
+}
