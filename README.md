@@ -10,4 +10,10 @@ These fields are not always easy to assess; for example `Open` should be the dat
 
 
 
-work-in-progress at [visionscarto.net](http://visionscarto.net/cartographie-des-spatioports)
+work-in-progress at [visionscarto.net](http://visionscarto.net/spatioports)
+
+
+# TODO
+
+- check all dates (should be first spatial launch date, not airport creation date)
+- add [Puerto Rico Spaceport](http://langkasa-norul.blogspot.no/2013_09_01_archive.html)
