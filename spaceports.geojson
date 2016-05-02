@@ -520,6 +520,26 @@
           26.0489858
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Designation": "Vostochny Cosmodrome",
+        "Address": "Svobodny, Amour Oblast",
+        "Country": "Russia",
+        "Main nationality": "Russia",
+        "Open": 2016,
+        "Closed": "",
+        "Operators": "Roscosmos",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.334778,
+          51.884553
+        ]
+      }
     }
   ]
 }
