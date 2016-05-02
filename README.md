@@ -6,7 +6,7 @@ Geocoded list of world's spaceports.
 Data columns:
 `Designation	Address	Country	Main nationality	Open	Closed	Operators	website	lat	lon`
 
-These fields are not always easy to assess; for example `Open` should be the date of first spatial/suborbital launch (in the future if it is aonly  project). `Nationality` is also difficult to assess in the case of multi-state or multi-national private endeavours. More work needs TDB on that front.
+These fields are not always easy to assess; for example `Open` should be the date of first spatial/suborbital launch (in the future if it is only a project). `Nationality` is also difficult to assess in the case of multi-state or multi-national private endeavours. More work needs TDB on that front.
 
 
 
